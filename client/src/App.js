@@ -8,7 +8,7 @@ function App() {
 	return (
 		<div>
 			<BootStrapNavbar />
-			<Search />
+			
 		</div>
 	);
 }
